@@ -25,5 +25,6 @@
         "psr-4": {
             "Lima\\Movie\\": ""
         }
-    }
+    },
+    "minimum-stability": "1.0.0"
 }
