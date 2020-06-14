@@ -2,7 +2,7 @@
     "name": "lima/movies",
     "description": "A module that integrate magento 2 with some movies api to import movies to catalog",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
