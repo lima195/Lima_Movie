@@ -19,41 +19,41 @@ This module contains the following resources:
 
 Demo images:
 
-* Menu
-![alt text](https://github.com/lima195/Lima_Movie/blob/master/images/01_menu.png?raw=true)
+* Menu &nbsp;
+![Menu](https://github.com/lima195/Lima_Movie/blob/master/images/01_menu.png?raw=true)
 
-* System configuration
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/02_config.png?raw=true)
+* System configuration &nbsp;
+![System configuration](https://github.com/lima195/Lima_Movie/blob/master/images/02_config.png?raw=trueraw=true)
 
-* Search Movie Results
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/03_search_movie.png?raw=true)
+* Search Movie Results &nbsp;
+![Search Movie Results](https://github.com/lima195/Lima_Movie/blob/master/images/03_search_movie.png?raw=true)
 
-* Setup custom price
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/04_setup_custom_price.png?raw=true)
+* Setup custom price &nbsp;
+![Setup custom price](https://github.com/lima195/Lima_Movie/blob/master/images/04_setup_custom_price.png?raw=true)
 
-* Confirm Import
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/05_import_confirm.png?raw=true)
+* Confirm Import &nbsp;
+![Confirm Import](https://github.com/lima195/Lima_Movie/blob/master/images/05_import_confirm.png?raw=true)
 
-* Import Movie Queue (waiting cron process)
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/06_import_movie_queue.png?raw=true)
+* Import Movie Queue (waiting cron process) &nbsp;
+![Import Movie Queue (waiting cron process)](https://github.com/lima195/Lima_Movie/blob/master/images/06_import_movie_queue.png?raw=true)
 
-* Force Import
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/07_import_movie_queue_force.png?raw=true)
+* Force Import &nbsp;
+![Force Import](https://github.com/lima195/Lima_Movie/blob/master/images/07_import_movie_queue_force.png?raw=true)
 
-* Import Success
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/08_import_movie_success.png?raw=true)
+* Import Success &nbsp;
+![Import Success](https://github.com/lima195/Lima_Movie/blob/master/images/08_import_movie_success.png?raw=true)
 
-* Favorite List Before
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/09_movie_favorite_list_before.png?raw=true)
+* Favorite List Before &nbsp;
+![Favorite List Before](https://github.com/lima195/Lima_Movie/blob/master/images/09_movie_favorite_list_before.png?raw=true)
 
-* Search Movie Results (frontend)
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/10_movie_search_result_frontend.png?raw=true)
+* Search Movie Results (frontend) &nbsp;
+![Search Movie Results (frontend)](https://github.com/lima195/Lima_Movie/blob/master/images/10_movie_search_result_frontend.png?raw=true)
 
-* Product View
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/11_movie_view.png?raw=true)
+* Product View &nbsp;
+![Product View](https://github.com/lima195/Lima_Movie/blob/master/images/11_movie_view.png?raw=true)
 
-* Added as favorite
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/12_movie_add_favorite.png?raw=true)
+* Added as favorite &nbsp;
+![Added as favorite](https://github.com/lima195/Lima_Movie/blob/master/images/12_movie_add_favorite.png?raw=true)
 
-* Favorite List Now (This collection has a group by product_id, count and limit 10 in _initSelect() on collection file)
-![alt text](https://github.com/lima195/Lima_Movie/tree/master/images/13_movie_favorite_list.png?raw=true)
+* Favorite List Now (This collection has a group by product_id, count and limit 10 in _initSelect() on collection file) &nbsp;
+![Favorite List Now (This collection has a group by product_id, count and limit 10 in _initSelect() on collection file)](https://github.com/lima195/Lima_Movie/blob/master/images/13_movie_favorite_list.png?raw=true)
